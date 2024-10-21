@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## 기술 스택
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://img.shields.io/pypi/pyversions/:packageName/>"
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
